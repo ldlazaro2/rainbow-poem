@@ -7,5 +7,6 @@ Yellow
 Green
 Blue
 Indigo
+Violet
 
-The Rainbow
+The Rainbow...
