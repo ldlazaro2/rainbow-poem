@@ -6,5 +6,6 @@ Orange
 Yellow
 Green
 Blue
+Indigo
 
 The Rainbow
