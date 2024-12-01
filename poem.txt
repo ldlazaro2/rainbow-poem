@@ -8,6 +8,7 @@ Green
 Blue
 Indigo
 Violet
+Magenta
 UNICORN!
 
 The Rainbow...
