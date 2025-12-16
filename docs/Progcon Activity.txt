@@ -1,0 +1,52 @@
+Progcon Activity 
+
+By: Neiro Singalivo IT251 
+
+Library Log in steps 
+ Design: 
+     SignIn() 
+       Model: 
+         - Account 
+             * Registered/New 
+
+ 
+
+  
+
+ 
+
+ -View 
+           - Tap Your Id to Login 
+                 ** Textbox 
+                   --Numeric 
+
+  
+
+                                                 -Enter your ID Number 
+ 
+                                                                      **Textbox 
+                                                                          --Numeric 
+                                                   - Enter your RFID Number (Tap your ID on the scanner) 
+                                                                       **Textbox 
+                                                                         --Numeric 
+ 
+                                                    -Submit/Confirm 
+
+  
+
+                                           - What is your reason for visit/stay 
+ 
+                                                                        **option list 
+
+                                                                    -Select Option for you reason of visit 
+
+                                                                    - Submit/Confirm 
+
+  
+
+                                                
+ 
+                                  Controller 
+                                                - Submit/confirm 
+                                                 *Validate Input For Student Account/Student Number/RFID Number 
+                                              ** Return output (Successful/Unsuccessful) perform validation function  
